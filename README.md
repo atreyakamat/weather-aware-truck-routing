@@ -11,7 +11,7 @@ everything on a map plus a corridor weather heatmap with a 0–48 hour forecast 
 
 | Deliverable | Link |
 |---|---|
-| GitHub repository | _add after pushing_ |
+| GitHub repository | https://github.com/atreyakamat/weather-aware-truck-routing |
 | Hosted application | _add after deploying_ |
 | Loom walkthrough (5–10 min) | _add after recording — see [WALKTHROUGH.md](WALKTHROUGH.md)_ |
 
